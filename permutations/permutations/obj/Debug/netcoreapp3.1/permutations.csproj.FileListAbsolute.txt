@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\bin\Debug\netcoreapp3.1\permutations.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\bin\Debug\netcoreapp3.1\permutations.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\bin\Debug\netcoreapp3.1\permutations.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\bin\Debug\netcoreapp3.1\permutations.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\bin\Debug\netcoreapp3.1\permutations.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\bin\Debug\netcoreapp3.1\permutations.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\obj\Debug\netcoreapp3.1\permutations.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\obj\Debug\netcoreapp3.1\permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\obj\Debug\netcoreapp3.1\permutations.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\obj\Debug\netcoreapp3.1\permutations.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\obj\Debug\netcoreapp3.1\permutations.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\obj\Debug\netcoreapp3.1\permutations.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\obj\Debug\netcoreapp3.1\permutations.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Day16_17\permutations\permutations\obj\Debug\netcoreapp3.1\permutations.genruntimeconfig.cache
